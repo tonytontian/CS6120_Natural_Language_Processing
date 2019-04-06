@@ -1,0 +1,32 @@
+div.node-debatabase
+  Container div
+
+div.debatabase-title
+  Debate name
+
+div#debatabase-points
+  Container for claims/arguments
+
+div#debatabase-points-1
+  Container for supporting claims/arguments
+
+div.field-name-field-title-point-for .field-item
+  Supporting claim
+
+div.field-name-field-point-point-for .field-item
+  Supporting argument text (in a single div)
+
+div.field-name-field-counterpoint-point-for
+  Counterpoint to supporting argument (text)
+
+div#debatabase-points-2
+  Container for opposing claims/arguments
+
+div.field-name-field-title .field-item
+  Opposing claim
+
+div.field-name-field-point .field-item
+  Opposing argument text (in a single div)
+
+div.field-name-field-counterpoint .field-item
+  Counterpoint to opposing argument (text)
